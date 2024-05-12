@@ -1,0 +1,2 @@
+1)To run this go to the anaconda prompt then activate assistant1 environment and then go 
+to the Desktop assistant project folder which is in C drive and then run that.
