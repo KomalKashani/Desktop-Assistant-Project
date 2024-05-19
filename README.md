@@ -1,9 +1,9 @@
 ## Desktop-Assistant-Project
 
-1. Create a new virtual environment
+1. Create a new virtual environment (for streamlit we need python 3.10)
 
 ```bash
-conda create -n assistant1 python=3.8
+conda create -n assistant1 python=3.10
 ```
 
 2. Checkout the created virtual environment
@@ -30,4 +30,3 @@ git add .
 git commit -m "message"
 
 git push origin main
-

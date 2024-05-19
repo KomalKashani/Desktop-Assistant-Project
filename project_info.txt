@@ -1,2 +1,4 @@
-1)To run this go to the anaconda prompt then activate assistant1 environment and then go 
+1)To run this go to the anaconda prompt then activate assistant environment and then go 
 to the Desktop assistant project folder which is in C drive and then run that.
+2)To activate environment run this command -> conda activate assistant(assistant is the environment name)
+2)To run the streamlit application run this command -> streamlit run app.py
