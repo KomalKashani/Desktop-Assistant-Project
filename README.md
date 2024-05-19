@@ -24,6 +24,17 @@ conda activate assistant1
 pip install -r requirements.txt
 ```
 
+5. To run the desktop application which is created using python libraries
+
+```bash
+python main.py
+```
+
+6.To run the desktop application which is created using gpt api
+
+```bash
+streamlit run app.py
+```
 ## Required Github Commands
 git add .
 

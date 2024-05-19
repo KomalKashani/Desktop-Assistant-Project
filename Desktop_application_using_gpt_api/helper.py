@@ -3,8 +3,8 @@ import google.generativeai as genai
 import os
 from gtts import gTTS
 
-
-GOOGLE_API_KEY = "AIzaSyDhdGosO9LoXwLBin86hz7l8N-szY2K34k"
+# Here enter your own google api key
+GOOGLE_API_KEY = "***************************"
 os.environ['GOOGLE_API_KEY'] = GOOGLE_API_KEY
 
 
